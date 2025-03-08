@@ -1,0 +1,8 @@
+public class ClaseUno{
+	public int metodo(){
+		int y;
+		y = y+x;
+	}
+
+
+}

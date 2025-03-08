@@ -1,0 +1,12 @@
+public class ClaseUno{
+	public int y;
+	public int metodo(){
+		int y; 
+		int y;
+	}
+
+	public int metodoDos(){
+
+	}
+
+}
