@@ -2,7 +2,7 @@
 
 Este proyecto es un "IDE". 
 - Para poder ejecutarlo se debe tener gradle instalado
-Una vez instalado gradle, ejecutar: 
+- Una vez instalado gradle, ejecutar: 
 ```
 gradle run
 
