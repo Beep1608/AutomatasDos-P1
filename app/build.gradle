@@ -20,6 +20,9 @@ dependencies {
     // This dependency is used by the application.
     implementation libs.guava
     implementation files('libs/antlr-3.5.2-complete.jar')
+    
+    // MySQL JDBC driver for database connectivity
+    implementation 'com.mysql:mysql-connector-j:8.0.33'
 }
 
 java {
